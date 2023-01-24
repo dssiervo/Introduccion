@@ -1,8 +1,6 @@
 # OPERACIONES ARITMÉTICAS
 
 5.2+3       # Suma
-@printf("5.2+3=%d\n", (5.2+3))
-println("5.2+3=", (5.2+3))
 4-55        # Resta
 3*-7        # Multiplicación
 21/3        # División
