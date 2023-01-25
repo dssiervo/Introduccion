@@ -16,7 +16,7 @@ abs(-32)    # Valor absoluto
 sign(-32)   # Signo
 
 
-3^2         # Potencia. No admite **
+3^2         # Potencia. Admite ** 
 sqrt(17)    # Raiz cuadrada
 # No existe una función de base de Raiz cúbica
 exp(1)      # Exponencial
