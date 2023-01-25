@@ -6,9 +6,9 @@
 21/3        # División
 3\21        # División inversa
 9%4         # Residuo
-div(8,4)    # División truncada
-fld(8,4)    # Cociente hacia abajo 
-cld(8,4)    # Cociente hacia arriba
+div(9,4)    # División truncada
+fld(9,4)    # Cociente hacia abajo 
+cld(9,4)    # Cociente hacia arriba
 
 lcm(2,3,18) # MCM
 gcd(18,66)  # MCD
