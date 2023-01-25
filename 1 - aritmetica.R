@@ -26,8 +26,7 @@ log2(16)    # Logaritmo base 2
 log(27, base=3)  # Logaritmo con base arbitraria
 
 # Funciondes de redondeo
-round(pi)
-floor(pi)
-ceiling(pi)
-trunc(pi)
-round(-pi)
+round(pi)   # Redondeo
+floor(pi)   # Redondeo hacia arriba
+ceiling(pi) # Redondeo hacia abajo
+trunc(pi)   # Truncamiento hacia cero
