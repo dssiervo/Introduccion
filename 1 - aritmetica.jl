@@ -5,10 +5,10 @@
 3*-7        # Multiplicación
 21/3        # División
 3\21        # División inversa
-8%3         # Residuo
-div(8,3)    # División truncada
-fld(8,3)    # Cociente hacia abajo 
-cld(8,3)    # Cociente hacia arriba
+9%4         # Residuo
+div(8,4)    # División truncada
+fld(8,4)    # Cociente hacia abajo 
+cld(8,4)    # Cociente hacia arriba
 
 lcm(2,3,18) # MCM
 gcd(18,66)  # MCD
@@ -26,8 +26,7 @@ log2(16)    # Logaritmo base 2
 log(3, 27)  # Logaritmo con base arbitraria
 
 # Funciondes de redondeo
-round(pi)
-floor(pi)
-ceil(pi)
-trunc(pi)
-round(-pi)
+round(pi)   # Redondeo
+floor(pi)   # Redondeo hacia abajo
+ceil(pi)    # Redondeo hacia arriba
+trunc(pi)   # Truncamiento hacia cero
